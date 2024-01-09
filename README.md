@@ -10,7 +10,7 @@ can be either:
 - a net new project featuring a browser-based IDE that uses subhosting
 - an existing project with a newly added browser-based IDE that uses subhosting
 
-When you have built an application that mathces this description,
+When you have built an application that matches this description,
 [please submit it here](https://github.com/denoland/subhosting-hackathon/issues/new)
 and include the following key information:
 
